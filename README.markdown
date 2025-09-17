@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sabastine Chika
 
-I'm a passionate self-taught backend developer from Nigeria, focused on building scalable APIs and automation solutions. With a strong foundation in Python, FastAPI, PostgreSQL, and Docker, I create projects that solve real-world problems, from AI-driven WhatsApp agents to data analytics platforms. My journey is driven by curiosity, hands-on learning, and a commitment to impactful tech. I am also involved with ethical hacking and pivoting into web pen-tester 
+I'm a passionate self-taught backend developer, focused on building scalable APIs and automation solutions. With a strong foundation in Python, FastAPI, PostgreSQL, and Docker, I create projects that solve real-world problems, from AI-driven WhatsApp agents to data analytics platforms. My journey is driven by curiosity, hands-on learning, and a commitment to impactful tech. I am also involved with ethical hacking and pivoting into web pen-tester 
 
 ## 🚀 About Me
 - 🌟 **Core Focus**: Crafting robust backend systems and AI/automation tools using Python, FastAPI, PostgreSQL, JWT, and Docker.
