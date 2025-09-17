@@ -18,7 +18,7 @@ I'm a passionate self-taught backend developer from Nigeria, focused on building
 ## 📂 Featured Projects
 - **CLI TODO App**  
   A Python-based command-line tool for task management with full CRUD functionality, file persistence, and input validation.  
-  [View Repository](https://github.com/yourusername/cli-todo-app)
+  [View Repository](https://github.com/Sachither/CLI-TODO_App)
 
 - **Sports Betting Analytics Database**  
   A PostgreSQL database with Python scripts for analyzing user trends and exporting data to CSV, optimized for performance.  
@@ -26,10 +26,18 @@ I'm a passionate self-taught backend developer from Nigeria, focused on building
 
 - **WhatsApp AI Agent**  
   An automation bot using Python and FastAPI, integrated with Twilio for real-time messaging and data retrieval.  
-  [View Repository](https://github.com/yourusername/whatsapp-ai-agent)
+  [View Repository](https://github.com/Sachither/Sports-betting-analytics-database)
+
+- **FastApi**  
+  A powerful social media REST API built with FastAPI and PostgreSQL. Features JWT authentication, post management, and a voting system.  
+  [View Repository](https://github.com/Sachither/Fast-Api)
+
+- **Ethical hacking**  
+  A year-long journey into ethical hacking & penetration testing.  
+  [View Repository](https://github.com/Sachither/ethical-hacking-journey)
+
+- **And many more project you can find** 
 
 ## 🌍 Why I Code
 I believe in using technology to solve everyday challenges. My goal is to contribute to innovative backend and AI solutions, whether for local startups or global remote teams. Check out my repositories to see my work, and let’s connect to build something amazing!
 
-## 📊 GitHub Stats
-![Sabastine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachither&show_icons=true&theme=radical)
